@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18904" started-at="2019-12-06T00:25:21 EST" finished-at="2019-12-06T00:25:40 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18904" started-at="2019-12-06T00:25:21 EST" finished-at="2019-12-06T00:25:40 EST">
+      <class name="com.testcases.AddNewCustomer">
+        <test-method status="PASS" signature="Enterdcustdetails()[pri:0, instance:com.testcases.AddNewCustomer@5bfbf16f]" name="Enterdcustdetails" duration-ms="18122" started-at="2019-12-06T00:25:21 EST" finished-at="2019-12-06T00:25:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterdcustdetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.AddNewCustomer@5bfbf16f]" name="tearDown" is-config="true" duration-ms="730" started-at="2019-12-06T00:25:39 EST" finished-at="2019-12-06T00:25:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.testcases.AddNewCustomer@5bfbf16f]" name="quitBrowser" is-config="true" duration-ms="1" started-at="2019-12-06T00:25:40 EST" finished-at="2019-12-06T00:25:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.testcases.AddNewCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
